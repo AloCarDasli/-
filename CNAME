@@ -1,7 +1,0 @@
-alocard.pro
-
-$ dig alocard.pro +noall +answer -t A
-> alocard.pro    3600    IN A     185.199.108.153
-> alocard.pro    3600    IN A     185.199.109.153
-> alocard.pro    3600    IN A     185.199.110.153
-> alocard.pro    3600    IN A     185.199.111.153
